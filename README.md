@@ -20,6 +20,8 @@ https://www.notion.so/Metaplex-Developer-Guide-afefbc19841744c28587ab948a08cfac
 
 ## Installing
 
+Make sure [NodeJs](https://nodejs.org/en/download/), [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git), and [Yarn](https://classic.yarnpkg.com/en/docs/getting-started) are installed on your machine.
+
 Clone the repo, and run `yarn start` to deploy.
 
 ```bash
